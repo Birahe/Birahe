@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const HestiaN = {
     FavoriteLanguage: "Javascript/Typescript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 1,
+    OpenedPullRequests: 27,
+    TotalCommits: 338,
     Stars: 18,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 55,
+       Contributed: 7
     },
 }; // What an awesome object, huh?
 ```
