@@ -2,20 +2,7 @@ const path = require("path");
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-let stars = 0,
-  page = 1;
-
 let special;
-
-const CountStars = async () => {
-  let StarsData = await fetch(
-    `https://api.github.com/users/HestiaN/starred?per_page=100&page=${page}`
-  ).then((res) => res.json());
-  stars += StarsData.length;
-  page++;
-  if (StarsData.length === 100) CountStars();
-  else WriteReadMe();
-};
 
 const WriteReadMe = async () => {
   //Get ReadMe path
@@ -49,7 +36,7 @@ const HestiaN = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: ${stars},
+    Stars: {{ STARS }},
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -105,5 +92,5 @@ const HestiaN = {
 };
 
 (() => {
-  CountStars();
+  WriteReadMe();
 })();
