@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const HestiaN = {
     FavoriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 27,
-    TotalCommits: 334,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 18,
     Repositories: {
-       Created: 55,
-       Contributed: 7
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
@@ -30,8 +30,9 @@ const HestiaN = {
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=HestiaN&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=HestiaN&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hestian&theme=synthwave">
   </p>
 </details>
   
-<!-- Last updated on Tue Apr 19 2022 20:01:52 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Apr 19 2022 20:04:27 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 19th April 2022 using magic</i> ✨
