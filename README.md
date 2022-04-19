@@ -1,7 +1,7 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/54510753?s=400&u=e4d15ddfcc5587e3c7f12391bd15dd0d03cc0090&v=4" width="200" />
 I'm **HestiaN**, An developer from Turkey. I like to code back-end applications and games with Unity. I have worked on many projects in my past, Some of my open source projects are in my profile. Make sure to check them out.
   
-Thanks for visiting my github profile. Have a great day ahead!~
+Thanks for visiting my github profile. Have a great day ahead!
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
@@ -33,5 +33,5 @@ const HestiaN = {
   </p>
 </details>
   
-<!-- Last updated on Tue Apr 19 2022 19:49:40 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Apr 19 2022 19:57:25 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 19th April 2022 using magic</i> ✨
