@@ -1,5 +1,5 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/54510753?s=400&u=e4d15ddfcc5587e3c7f12391bd15dd0d03cc0090&v=4" width="200" />
-I'm **HestiaN**, An developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
+I'm **HestiaN**, A developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
   
 Thanks for visiting my github profile. Have a great day ahead!
   
@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const HestiaN = {
     FavoriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 28,
-    TotalCommits: 438,
-    Stars: 3,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: {{ STARS }},
     Repositories: {
-       Created: 57,
-       Contributed: 7
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
@@ -34,5 +34,5 @@ const HestiaN = {
   </p>
 </details>
   
-<!-- Last updated on Sun May 01 2022 12:15:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun May 01 2022 16:18:23 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 1st May 2022 using magic</i> ✨
