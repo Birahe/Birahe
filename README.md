@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const HestiaN = {
     FavoriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 28,
-    TotalCommits: 476,
-    Stars: 2,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: {{ STARS }},
     Repositories: {
-       Created: 56,
-       Contributed: 7
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
@@ -34,5 +34,5 @@ const HestiaN = {
   </p>
 </details>
   
-<!-- Last updated on Fri May 06 2022 00:40:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Fri May 06 2022 06:13:09 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th May 2022 using magic</i> ✨
