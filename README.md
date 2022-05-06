@@ -1,38 +1,38 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/54510753?s=400&u=e4d15ddfcc5587e3c7f12391bd15dd0d03cc0090&v=4" width="200" />
-I'm **HestiaN**, A developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
+I'm **Birahe**, A developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
   
 Thanks for visiting my github profile. Have a great day ahead!
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const HestiaN = {
+const Birahe = {
     FavoriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 28,
-    TotalCommits: 480,
-    Stars: 2,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: {{ STARS }},
     Repositories: {
-       Created: 56,
-       Contributed: 7
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HestiaN&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Birahe&theme=tokyonight">
 </p>
 <details>
   <summary>
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=HestiaN&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=HestiaN&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hestian&theme=synthwave">
+    <img src="https://github-profile-trophy.vercel.app/?username=Birahe&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Birahe&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=birahe&theme=synthwave">
   </p>
 </details>
   
-<!-- Last updated on Fri May 06 2022 12:16:01 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Fri May 06 2022 17:55:01 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th May 2022 using magic</i> ✨
