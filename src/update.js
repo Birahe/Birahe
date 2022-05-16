@@ -32,7 +32,7 @@ Thanks for visiting my github profile. Have a great day ahead!
 
 \`\`\`js
 const Birahe = {
-    FavoriteLanguage: "Javascript/Typescript",
+    FavoriteLanguage: "Typescript/Javascript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
