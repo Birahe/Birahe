@@ -49,7 +49,7 @@ const Birahe = {
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Birahe&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=Birahe&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Birahe&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Birahe&theme=synthwave&langs_count=5&custom_title=Time%20Spent%20In...">
   </p>
 </details>
   
