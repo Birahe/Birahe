@@ -57,7 +57,7 @@ const HestiaN = {
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=HestiaN&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=HestiaN&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hestian&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=birahe&theme=synthwave">
   </p>
 </details>
   
