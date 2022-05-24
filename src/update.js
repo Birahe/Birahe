@@ -1,5 +1,4 @@
 const path = require("path");
-const fetch = require("node-fetch");
 const fs = require("fs");
 
 let special;
@@ -9,20 +8,13 @@ const WriteReadMe = async () => {
   const ReadMe = path.join(__dirname, "..", "README.md");
   const date = new Date();
 
-  //Season Based Emoji
-  let dd = date.getDate(),
-    mm = date.getMonth() + 1;
+  mm = date.getMonth() + 1;
 
   if (mm === 12) special = ["⛄", "❄", "🎄"];
 
-  //Fetching Info From Github API
-  let UserData = await fetch("https://api.github.com/users/HestiaN").then(
-    (res) => res.json()
-  );
-
   //Creating the text what we gonna save on ReadMe file
   const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/54510753?s=400&u=e4d15ddfcc5587e3c7f12391bd15dd0d03cc0090&v=4" width="200" />
-I'm **HestiaN**, An developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
+I'm **Birahe**, A developer from Turkey. I like to code back-end applications and games with Unity. Some of my open source projects are in my profile. Make sure to check them out.
   
 Thanks for visiting my github profile. Have a great day ahead!
   
@@ -31,8 +23,8 @@ Thanks for visiting my github profile. Have a great day ahead!
   }</h2>
 
 \`\`\`js
-const HestiaN = {
-    FavoriteLanguage: "Javascript/Typescript",
+const Birahe = {
+    FavoriteLanguage: "Typescript/Javascript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
@@ -48,15 +40,15 @@ const HestiaN = {
     special ? special[1] : "🚀"
   }</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HestiaN&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Birahe&theme=tokyonight">
 </p>
 <details>
   <summary>
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=HestiaN&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=HestiaN&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=Birahe&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Birahe&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=birahe&theme=synthwave">
   </p>
 </details>
