@@ -3,7 +3,7 @@ I'm **Birahe**, A developer from Turkey. I like to code back-end applications an
   
 Thanks for visiting my github profile. Have a great day ahead!
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const Birahe = {
@@ -19,7 +19,7 @@ const Birahe = {
 }; // What an awesome object, huh?
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Birahe&theme=tokyonight">
 </p>
@@ -34,5 +34,5 @@ const Birahe = {
   </p>
 </details>
   
-<!-- Last updated on Wed Nov 30 2022 18:09:55 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th November 2022 using magic</i> ✨
+<!-- Last updated on Thu Dec 01 2022 00:45:25 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st December 2022 using magic</i> 🎄
