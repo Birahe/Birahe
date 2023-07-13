@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const Birahe = {
     FavoriteLanguage: "Typescript/Javascript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 38,
-    TotalCommits: 2465,
-    Stars: 2,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: {{ STARS }},
     Repositories: {
-       Created: 63,
-       Contributed: 4
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
@@ -34,5 +34,5 @@ const Birahe = {
   </p>
 </details>
   
-<!-- Last updated on Wed Jul 12 2023 18:09:43 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 12th July 2023 using magic</i> ✨
+<!-- Last updated on Thu Jul 13 2023 00:47:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 13th July 2023 using magic</i> ✨
