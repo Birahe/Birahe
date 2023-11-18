@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!
 ```js
 const Birahe = {
     FavoriteLanguage: "Typescript/Javascript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
-    Stars: {{ STARS }},
+    OpenedIssues: 1,
+    OpenedPullRequests: 51,
+    TotalCommits: 3538,
+    Stars: 2,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 65,
+       Contributed: 7
     },
 }; // What an awesome object, huh?
 ```
