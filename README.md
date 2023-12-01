@@ -3,23 +3,23 @@ I'm **Birahe**, A developer from Turkey. I like to code back-end applications an
   
 Thanks for visiting my github profile. Have a great day ahead!
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const Birahe = {
     FavoriteLanguage: "Typescript/Javascript",
-    OpenedIssues: 1,
-    OpenedPullRequests: 47,
-    TotalCommits: 3635,
-    Stars: 2,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: {{ STARS }},
     Repositories: {
-       Created: 65,
-       Contributed: 6
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; // What an awesome object, huh?
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Birahe&theme=tokyonight">
 </p>
@@ -34,5 +34,5 @@ const Birahe = {
   </p>
 </details>
   
-<!-- Last updated on Thu Nov 30 2023 18:09:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th November 2023 using magic</i> ✨
+<!-- Last updated on Fri Dec 01 2023 00:38:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st December 2023 using magic</i> 🎄
